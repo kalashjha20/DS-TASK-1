@@ -6,7 +6,7 @@
 ### -> pandas
 ### -> matplotlib and seaborn for visualisation
 ## DATA ANALYSIS:
-### During the data analysis, I have performed data cleaning, data visualisation using bar chart,line chart.
+### During the data analysis, I have performed data cleaning ising pandas and numpy and prerformed data visualisation by plotting bar chart,line chart using matplotlib and seaborn.
 ### This project will help in :
   ->Comparative study of population growth rates
   ->Detecting demographic shifts across regions and time periods
